@@ -1,2 +1,1 @@
-
-https://img.shields.io/badge/language-Python-blue
+![GitHub contributors](https://img.shields.io/github/contributors/kariBifs/capston?color=blue&label=contributors)
