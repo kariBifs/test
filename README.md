@@ -1,2 +1,2 @@
 
-https://img.shields.io/badge/<language>-<Python>-<Blue>
+https://img.shields.io/badge/language-Python-blue
